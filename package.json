@@ -1,0 +1,23 @@
+{
+  "name": "spacex",
+  "version": "1.0.0",
+  "description": "--- <div> <b>Quick menu:</b> <a href=\"https://theultimateapichallenge.com/spacex-api\" target=\"_blank\" rel=\"noopener\"     style=\"padding:0.35rem 0.7rem;     color: black;     background: #BDFFF3;     border-radius:10px;     font-size:0.85rem;     font-weight:600;\">Challenge Page</a> | <a href=\"https://api.spacex.land/graphql/\" target=\"_blank\" rel=\"noopener\"     style=\"padding:0.35rem 0.7rem;     color: black;     background: #F1DEDE;     border-radius:10px;     font-size:0.85rem;     font-weight:600;\">Official API Docs</a> | <a href=\"https://youtu.be/6zjc7uvWTGk\" target=\"_blank\" rel=\"noopener\"     style=\"padding:0.35rem 0.7rem;     color: black;     background: #FE938C;     border-radius:10px;     font-size:0.85rem;     font-weight:600;\">YouTube Video</a>  </div>",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.29.0",
+    "@typescript-eslint/parser": "^4.29.0",
+    "eslint": "^7.32.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.24.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0",
+    "eslint-plugin-react": "^7.24.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
